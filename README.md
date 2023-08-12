@@ -19,5 +19,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aryman-sharma&" alt="aryman-sharma" /></p>
 
-### 📈 My GitHub Contributions
-![Snake animation](https://github.com/Aryman-sharma/Aryman-sharma/blob/output/github-contribution-grid-snake.svg)
+
