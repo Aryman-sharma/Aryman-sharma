@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Aryman Sharma</h1>
-<h3 align="center">"Web Development and DSA Enthusiast 🌐 | Dedicated to Mastering the Craft of Web Technologies | Committed to Efficient Algorithms and Data Structures | Lifelong Learner on a Quest for Excellence | Seeking Collaborative Opportunities with Like-minded Professionals 🤝 | Fueling Ideas with Coffee ☕ | Crafting Digital Solutions for a Dynamic World 🚀"</h3>
+<h3 align="center">"Keep Calm And Hit It Hard"</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aryman-sharma&label=Profile%20views&color=0e75b6&style=flat" alt="aryman-sharma" /> </p>
 
